@@ -1,5 +1,5 @@
 tamaño = int(input("digite la longitud de la matriz:"))
-matriz = [[["*pene"],["*"],["*"]],
+matriz = [[["*"],["*"],["*"]],
           [["*"],["*"],["*"]],
           [["*"],["*"],["*"]]]
 
